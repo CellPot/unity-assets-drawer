@@ -33,7 +33,7 @@ In many ways it works like Terrain Brush, but doesn't limit you to that type of 
 <img src="https://s13.gifyu.com/images/S0aCA.gif" alt="spread spawn" border="0">
 
 #### 4) All of that while assets can be aligned to surface normal vector
-<img src="https://s13.gifyu.com/images/S0aaP.gif" alt="aligned spawn lr1" border="0" width="1200" height="550">
+<img src="https://s13.gifyu.com/images/S0aA6.gif" alt="aligned spawn lr" border="0" /></a>
 
 #### 5) And objects can be easily erased from the scene (if they are not nested into prefabs)
 <img src="https://s13.gifyu.com/images/S0aCo.gif" alt="deletion" border="0">
