@@ -9,7 +9,7 @@ In many ways it works like Terrain Brush, but doesn't limit you to that type of 
 
 ## Quick installation guide
 1) Install the tool:
-	- a: Download and import package file from releases into your project or just drag and drop whole Asset Drawer folder
+	- a: Download and import package file from releases into your project
 	- b: ...OR Copy and paste `AssetsDrawer` directory into your project
 2) Open ```Tools/Assets Drawer``` window
 3) Fill prefabs palette:
